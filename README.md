@@ -73,5 +73,5 @@ In dashboard use key performance Indicators that indicate current and previous y
 
 Conclusion
 
-This dataset can provide insights into sales performance broken down by various factors. Analyzing these patterns can help in making informed business decisions regarding inventory, pricing strategies, and targeting specific customer segments for marketing initiatives.
+This dashboard can provide insights into sales performance broken down by various factors. Analyzing these patterns can help in making informed business decisions regarding inventory, pricing strategies, and targeting specific customer segments for marketing initiatives.
 
