@@ -65,9 +65,13 @@ Dashboard:
 In dashboard use key performance Indicators that indicate current and previous year sales, orders , profit ,profits margin and discount.
 
  A staked bar chart used to visualize order by Country,stacked column chart used to visualize profit margin in country, donut chart show the discount percentage,stacked bar chart used to visualize profit margin in segment, line chart visualize sales amount by year and month, stacked bar chart also used to visualize top 3 products and a table and donut chart showing profit margin by segment and product by using bookmarks.
+
+ 
  <img width="504" alt="image" src="https://github.com/user-attachments/assets/3fb21d98-7f65-4ae4-ab5a-2bde5023f64c">
+
+
+
 Conclusion
 
 This dataset can provide insights into sales performance broken down by various factors. Analyzing these patterns can help in making informed business decisions regarding inventory, pricing strategies, and targeting specific customer segments for marketing initiatives.
 
-Please let me know if you need further detailed analysis or specific insights based on this dataset!
